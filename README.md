@@ -8,7 +8,7 @@ How to edit your Telegram post inline markup?
 
 3. In terminal (in cloned repository directory) run `bun i` to install dependencies
 
-4. In config.ts replace settings for your bot
+4. In `config.ts` replace settings for your bot
 
 5. In terminal (in cloned repository directory) run `bun run index.ts` to run script
 
